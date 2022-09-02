@@ -1,0 +1,1 @@
+Using <b> or <i> only change the visuals, but with <strong> you make the text important and with <em> you give emphasis.

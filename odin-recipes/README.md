@@ -1,0 +1,2 @@
+# Project: Recipes
+This project consist of a website which contains some recipes. In this project I'll put into practice <a href="https://github.com/r0zh/odin-basics">the skills that I have learned till know</a>.
